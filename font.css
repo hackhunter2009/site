@@ -1,0 +1,36 @@
+    
+    @import url('https://fonts.googleapis.com/css?family=Amatic+SC:400,700|Bubblegum+Sans|Calligraffitti|Ceviche+One|Comfortaa:300,400,500,600,700|Cutive+Mono|Delius|GFS+Didot|Kavoon|Kelly+Slab|Lalezar|Mansalva|Norican|Permanent+Marker|Red+Hat+Display:400,400i,500,500i,700,700i,900,900i|Righteous|Shadows+Into+Light|Teko:300,400,500,600,700&display=swap&subset=arabic,cyrillic,cyrillic-ext,devanagari,greek,hebrew,latin-ext,vietnamese');
+    
+    body {
+            font-family: 'Delius', fantasy;
+    /* font-family: 'GFS Didot', monospace; */
+    /* font-family: 'Norican', Impact; */
+    color: white;
+    }
+    
+    
+    h1 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 31px;
+        
+    }
+
+    h3 {
+        font-size: 29.5px;
+    }
+
+    h4 {
+        font-size: 19px;
+    }
+
+    h5 {
+        font-size: 18.7;
+    }
+
+    h6 {
+        font-size: 17px;
+    }
+    

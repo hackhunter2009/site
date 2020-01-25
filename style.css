@@ -1,0 +1,74 @@
+html, body {
+   
+    padding: 0;
+    color: white;
+
+    
+    }
+
+   .title h1 {
+        font-size: 54px;
+        font-family: 'Delius', monospace;
+    }
+
+    .title h3 {
+        font-family: 'GFS Didot', monospace;
+    }
+
+
+  
+    .title {
+        margin-right: 720px;
+    }
+    
+    .login-register {
+        margin-left: 720px;
+        margin-top: 100px;
+        position: absolute;
+    }
+    
+    form input {
+        border-radius: 30px;
+        border-color: rgba(0, 0, 0, 0);
+        width: 300px;
+        height: 45px;
+        font-size: 22px;
+        padding-left: 5px;
+        color: azure;
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+
+    form input:focus {
+        width: 315px;
+        height: 55px;
+        outline: 0;
+    }
+
+    form input:invalid {
+        border-color: rgba(0, 0, 0, 0);
+        background-color: rgba(59, 10, 10, 0.452);
+    }
+
+    #register {
+        display: none;
+    }
+
+    #login {
+        display: unset;
+    }
+
+    .learn-more {
+        background: none;
+        border: none;
+        font-family: 'GFS Didot', monospace;
+        color: azure;
+    }
+
+    .learn-more:focus {
+     outline: 0;
+    }
+
+
+
+
+    
